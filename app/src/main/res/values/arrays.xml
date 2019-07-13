@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recycler_list">
+        <item>http</item>
+        <item>启动方式(Service)</item>
+        <item>通信(Stock)</item>
+        <item>线程(Handler)</item>
+        <item>线程(Thread)</item>
+        <item>线程(sync)</item>
+        <item>自定义横向滑动(Text不可循环滑动)</item>
+        <item>ViewPager(Text不可循环滑动)</item>
+        <item>ViewPager(Texx可循环滑动)</item>
+        <item>EventBus简单实用</item>
+        <item>Image图片优化</item>
+
+    </string-array>
+
+</resources>
